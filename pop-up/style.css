@@ -1,0 +1,15 @@
+#container{
+    height: 100vh;
+
+}
+#pop-up{
+    position: absolute;
+    top: 50%;
+    display: none;
+    right: 50%;
+    background: black;
+    color: white;
+    padding: 16px;
+    border-radius: 5px;
+    box-shadow: 19px 19px 19px 19px black;
+}
